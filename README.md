@@ -96,7 +96,3 @@ The dataset (`imdb_movies.csv`) contains ~1,000 movies with the following column
 - seaborn  
 - scikit-learn  
 - jupyter  
-
-## License
-
-MIT
